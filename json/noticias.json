@@ -1,16 +1,18 @@
-[{
-    "id": 1,
-    "imagemUrl": "http://marcelovilar.com.br/wp-content/uploads/2013/10/02.jpg",
-    "titulo": "Teste",
-    "data": "10/01/2017",
-    "descricao": "Lorem Ipsum é simplesmente uma simulação de texto da",
-    "link": "http://www.google.com.br"
-}, {
-    "id": 2,
-    "imagemUrl": "http://marcelovilar.com.br/wp-content/uploads/2013/10/02.jpg",
-    "titulo": "Teste",
-    "data": "10/01/2017",
-    "descricao": "Lorem Ipsum é simplesmente uma simulação de texto da",
-    "link": "http://www.google.com.br"
+{
+    "noticias": [{
+        "id": 1,
+        "imagemUrl": "http://marcelovilar.com.br/wp-content/uploads/2013/10/02.jpg",
+        "titulo": "Teste",
+        "data": "10/01/2017",
+        "descricao": "Lorem Ipsum é simplesmente uma simulação de texto da",
+        "link": "http://www.google.com.br"
+    }, {
+        "id": 2,
+        "imagemUrl": "http://marcelovilar.com.br/wp-content/uploads/2013/10/02.jpg",
+        "titulo": "Teste",
+        "data": "10/01/2017",
+        "descricao": "Lorem Ipsum é simplesmente uma simulação de texto da",
+        "link": "http://www.google.com.br"
 
-}]
+    }]
+}
