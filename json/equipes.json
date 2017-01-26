@@ -1,0 +1,9 @@
+{
+	"equipes": [{
+		"id": 1,
+		"imagemUrl": "http://marcelovilar.com.br/wp-content/uploads/2013/10/02.jpg",
+		"nome": "Ruibamar",
+		"descricao": "Locutor",
+		"sobre": ""
+	}]
+}

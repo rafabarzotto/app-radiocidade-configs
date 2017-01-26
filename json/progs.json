@@ -1,0 +1,8 @@
+ {
+     "progs": [{
+         "id": 1,
+         "nome": "Rock Meio dia",
+         "horario": "08:00 às 12:00",
+         "locutor": "Ruibamar"
+     }]
+ }
