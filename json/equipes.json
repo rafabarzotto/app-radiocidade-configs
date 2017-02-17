@@ -1,8 +1,14 @@
 {
 	"equipes": [{
 		"id": 1,
+		"imagemUrl": "http://www.cidadefm10.com.br/app/rui.jpg",
+		"nome": "Ruibamar Carlos Martins de Matos",
+		"descricao": "Locutor",
+		"sobre": ""
+	},{
+		"id": 2,
 		"imagemUrl": "http://marcelovilar.com.br/wp-content/uploads/2013/10/02.jpg",
-		"nome": "Ruibamar",
+		"nome": "Osorio",
 		"descricao": "Locutor",
 		"sobre": ""
 	}]
