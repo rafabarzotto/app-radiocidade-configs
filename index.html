@@ -5,15 +5,5 @@
 
 <b>CORS!</b>
 <div id=stuff></div>
-
-<script type=module>
-async function main() { 
-  let url = 'http://server03.stmsg.com.br:7166/;'
-  let req = await fetch(url)
-  let json = await req.json()
-  console.log(json)
-  stuff.innerHTML = `<pre>${JSON.stringify(json)}</pre>`
-}
-main()
-</script>
+  
 </html>
